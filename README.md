@@ -6,4 +6,4 @@
 * Saque
 * Deposito
 * Consultar saldo
-* Verificação de segurança (cpf e senha)
+* Verificação de segurança (cadastro de pessoas físicas e senha)
