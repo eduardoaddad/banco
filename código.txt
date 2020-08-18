@@ -32,7 +32,7 @@ Scanner ler = new Scanner(System.in);
                 
       }else{
           
-          System.out.println("Senha incorreta! tente novamente!");
+          System.out.println("Senha incorreta! tente novamente!"); // ao falhar a senha retorna nessa mensagem //
       }
  
         System.out.println("\tBanco Novo");
