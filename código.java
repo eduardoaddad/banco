@@ -14,7 +14,7 @@ Scanner ret = new Scanner(System.in);
             System.out.print("Digite seu cpf : ");
                 cpf = abc.nextInt();
                 
-      if(cpf == 1234567890){ // numero não é suportado
+      if(cpf == 1234567890){ 
                 
       }else{
           
